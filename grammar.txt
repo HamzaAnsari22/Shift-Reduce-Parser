@@ -1,0 +1,4 @@
+S->WHO?
+W->Who|What|Where|Which
+H->is|am|are|was|were
+O->you|he|she|it|they|i|this|these|those
